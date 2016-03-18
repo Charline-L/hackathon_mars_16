@@ -1,0 +1,32 @@
+@mixin box-shadow($values)
+  -moz-box-shadow: $values
+  -webkit-box-shadow: $values
+  -ms-box-shadow: $values
+  -o-box-shadow: $values
+  box-shadow: $values
+
+@mixin keyframes($animation-name)
+  @-webkit-keyframes #{$animation-name}
+    @content
+  @-moz-keyframes #{$animation-name}
+    @content
+  @-ms-keyframes #{$animation-name}
+    @content
+  @-o-keyframes #{$animation-name}
+    @content
+  @keyframes #{$animation-name}
+    @content
+
+@mixin animation($values)
+  -webkit-animation: $values
+  -moz-animation: $values
+  -ms-animation: $values
+  -o-animation: $values
+  animation: $values
+
+@mixin transition($values)
+  -webkit-transition: $values
+  -moz-transition: $values
+  -ms-transition: $values
+  -o-transition: $values
+  transition: $values
