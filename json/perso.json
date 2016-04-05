@@ -1,0 +1,36 @@
+{
+ "geoloc":
+ [
+   {
+     "nom": "ToiToi",
+     "Latitude": 45.771944,
+     "Longitude" : 4.890171
+   },
+   {
+     "nom": "Bieristan",
+     "Latitude": 45.767894,
+     "Longitude": 4.883538000000044
+   },
+   {
+     "nom": "Pole Pixel",
+     "Latitude": 52.391426,
+     "Longitude": 16.858079
+   },
+   {
+     "nom": "Simplon.co",
+     "Latitude": 45.767953,
+     "Longitude": 4.888045
+   },
+   {
+     "nom": "Le Rize",
+     "Latitude": 45.75981700000001,
+     "Longitude": 4.883824000000004
+   },
+   {
+     "nom": "Le Zola",
+     "Latitude": 45.75981700000001,
+     "Longitude": 4.883824000000004
+   }
+ ]
+
+}

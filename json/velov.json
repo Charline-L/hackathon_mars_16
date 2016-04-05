@@ -1,0 +1,333 @@
+{
+    "type": "FeatureCollection",
+    "features": [ {
+        "type": "Feature",
+        "properties": {
+            "idstation": "10027", "nom": "Mairie de Villeurbanne", "adresse1": "Avenue Aristide Briand", "adresse2": "En face de l'entrée de la mairie", "commune": "VILLEURBANNE", "numdansarrondissement": "27", "nbbornettes": "26", "stationbonus": "Non", "pole": "Mairie de Villeurbanne, TNP, itinéraire cyclable", "ouverte": "Oui", "achevement": "", "gid": "1"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.87989386727746, 45.766830606452515]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "10030", "nom": "Greuze", "adresse1": "Rue proudhon", "adresse2": "", "commune": "VILLEURBANNE", "numdansarrondissement": "30", "nbbornettes": "18", "stationbonus": "Non", "pole": "centre social", "ouverte": "Oui", "achevement": "", "gid": "2"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.893848016714341, 45.773843668198161]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "10034", "nom": "MJC", "adresse1": "Rue du Docteur Damidot", "adresse2": "Devant la MJC", "commune": "VILLEURBANNE", "numdansarrondissement": "34", "nbbornettes": "10", "stationbonus": "Non", "pole": "MJC", "ouverte": "Oui", "achevement": "", "gid": "3"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.886157284856601, 45.761788284968709]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "10036", "nom": "Chaplin \/ Dutriévoz", "adresse1": "avenue Stalingrad", "adresse2": "angle rue Chaplin", "commune": "VILLEURBANNE", "numdansarrondissement": "36", "nbbornettes": "16", "stationbonus": "Non", "pole": "entreprises, itinéraires cyclables", "ouverte": "Oui", "achevement": "", "gid": "4"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.859154585760836, 45.774356828699524]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "10038", "nom": "Condorcet \/ 11 Nov. 1918", "adresse1": "Boulevard du 11 Novembre 1918", "adresse2": "Croisement Tram", "commune": "VILLEURBANNE", "numdansarrondissement": "38", "nbbornettes": "12", "stationbonus": "Non", "pole": "tram, itinéraire cyclable", "ouverte": "Oui", "achevement": "", "gid": "5"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.866778328024092, 45.779045773718579]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "10043", "nom": "Salengro \/ 8 mai 1945", "adresse1": "rue 1945\/05\/08", "adresse2": "", "commune": "VILLEURBANNE", "numdansarrondissement": "43", "nbbornettes": "20", "stationbonus": "Non", "pole": "itinéraires cyclables", "ouverte": "Oui", "achevement": "", "gid": "6"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.890585836625102, 45.78301107459788]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "10047", "nom": "Pressensé \/ Bienvenus", "adresse1": "Avenue du Cdt Lherminier", "adresse2": "Angle Rue de Pressensé", "commune": "VILLEURBANNE", "numdansarrondissement": "47", "nbbornettes": "10", "stationbonus": "Non", "pole": "itinéraires cyclables", "ouverte": "Oui", "achevement": "", "gid": "7"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.884997681980714, 45.771172325504288]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "10048", "nom": "Place Marengo", "adresse1": "place marengo", "adresse2": "", "commune": "VILLEURBANNE", "numdansarrondissement": "48", "nbbornettes": "23", "stationbonus": "Non", "pole": "c¿ur quartier, itinéraire cyclable", "ouverte": "Oui", "achevement": "", "gid": "8"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.875888065717219, 45.759243850094101]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "2007", "nom": "Patinoire Charlemagne", "adresse1": "100 cours Charlemagne", "adresse2": "Angle rue Casimir Périer", "commune": "Lyon 2 ème", "numdansarrondissement": "7", "nbbornettes": "22", "stationbonus": "Non", "pole": "tram, patinoire", "ouverte": "Oui", "achevement": "", "gid": "9"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.82049353568986, 45.742646393471119]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "10039", "nom": "Bouvier \/ 8 mai 1945", "adresse1": "Rue du Professeur Bouvier", "adresse2": "Angle rue du 8 Mai 1945", "commune": "VILLEURBANNE", "numdansarrondissement": "39", "nbbornettes": "16", "stationbonus": "Non", "pole": "coeur quartier", "ouverte": "Oui", "achevement": "", "gid": "10"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.891500824527039, 45.779449926582608]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "2016", "nom": "Place Regaud", "adresse1": "Place Regaud", "adresse2": "Angle rue Tupin \/ rue Herriot", "commune": "Lyon 2 ème", "numdansarrondissement": "16", "nbbornettes": "12", "stationbonus": "Non", "pole": "maillage, Virgin", "ouverte": "Oui", "achevement": "", "gid": "11"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.834286688347044, 45.763076929566999]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "10075", "nom": "Charmettes \/ Péri \/ Philip", "adresse1": "rue Gabriel Péri", "adresse2": "Angle cours André Philip", "commune": "VILLEURBANNE", "numdansarrondissement": "75", "nbbornettes": "12", "stationbonus": "Non", "pole": " ", "ouverte": "Oui", "achevement": "", "gid": "12"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.865699268446058, 45.772299593850811]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "10079", "nom": "Anatole France \/ Barbusse", "adresse1": "Rue Anatole France", "adresse2": "Angle avenue Barbusse", "commune": "VILLEURBANNE", "numdansarrondissement": "79", "nbbornettes": "20", "stationbonus": "Non", "pole": "marché, centre-ville", "ouverte": "Oui", "achevement": "", "gid": "13"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.87916148913811, 45.768130400229929]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "6006", "nom": "Boulevard des Belges", "adresse1": "Boulevard des Belges", "adresse2": "Face rue Duquenne", "commune": "Lyon 6 ème", "numdansarrondissement": "6", "nbbornettes": "15", "stationbonus": "Non", "pole": "Parc de la Tête d'Or", "ouverte": "Oui", "achevement": "", "gid": "14"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.851830180121344, 45.773319511124846]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "6011", "nom": "Mairie du 6e", "adresse1": "58 rue de Sèze", "adresse2": "angle rue Boileau", "commune": "Lyon 6 ème", "numdansarrondissement": "11", "nbbornettes": "15", "stationbonus": "Non", "pole": "mairie du 6e", "ouverte": "Oui", "achevement": "", "gid": "15"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.849499452740504, 45.768399053286196]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "10086", "nom": "Anatole France \/ Pressensé", "adresse1": "Rue Anatole France", "adresse2": "Angle Rue de Pressensé \/ Flachet", "commune": "VILLEURBANNE", "numdansarrondissement": "86", "nbbornettes": "10", "stationbonus": "Non", "pole": "maillage, iti. Cyclable", "ouverte": "Oui", "achevement": "", "gid": "16"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.889526085789316, 45.769836000589763]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "6012", "nom": "Place Puvis de Chavannes", "adresse1": "Place Puvis de Chavannes", "adresse2": "Angle rue Vendôme", "commune": "Lyon 6 ème", "numdansarrondissement": "12", "nbbornettes": "10", "stationbonus": "Non", "pole": "", "ouverte": "Oui", "achevement": "", "gid": "17"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.844603635748356, 45.771757085573398]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "9011", "nom": "Conservatoire", "adresse1": "Quai Chauveau", "adresse2": "avant angle pont Koenig", "commune": "Lyon 9 ème", "numdansarrondissement": "11", "nbbornettes": "19", "stationbonus": "Non", "pole": "Conservatoire national de musique", "ouverte": "Oui", "achevement": "", "gid": "18"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.812676219585405, 45.769782212157409]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "3051", "nom": "Place Henri", "adresse1": "Place Henri", "adresse2": "rue du Docteur Long", "commune": "Lyon 3 ème", "numdansarrondissement": "51", "nbbornettes": "13", "stationbonus": "Non", "pole": "maillage", "ouverte": "Oui", "achevement": "", "gid": "19"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.880563488669042, 45.748166473362893]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "9003", "nom": "place Valmy", "adresse1": "rue Roquette", "adresse2": "angle rue de Bourgogne", "commune": "Lyon 9 ème", "numdansarrondissement": "3", "nbbornettes": "16", "stationbonus": "Non", "pole": "métro D, médiathèque", "ouverte": "Oui", "achevement": "", "gid": "20"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.805317980911981, 45.775641829444254]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "5026", "nom": "Saint Jean \/ Rue de la Baleine", "adresse1": "rue de la Baleine", "adresse2": "angle quai Romain Rolland", "commune": "Lyon 5 ème", "numdansarrondissement": "26", "nbbornettes": "14", "stationbonus": "Non", "pole": "Vieux Lyon", "ouverte": "Oui", "achevement": "", "gid": "21"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.829040441519919, 45.763375846482376]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "8007", "nom": "Rue des Frères Lumière", "adresse1": "rue des Frères Lumières", "adresse2": "angle rue Villon", "commune": "Lyon 8 ème", "numdansarrondissement": "7", "nbbornettes": "16", "stationbonus": "Non", "pole": "commerces", "ouverte": "Oui", "achevement": "", "gid": "22"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.866452317266829, 45.745017432083195]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "10072", "nom": "Jacques Brel \/Chorel", "adresse1": "Rue Jacques Brel", "adresse2": "", "commune": "VILLEURBANNE", "numdansarrondissement": "64", "nbbornettes": "23", "stationbonus": "Non", "pole": "Tram, habitat dense et quartier du Tonkin", "ouverte": "Oui", "achevement": "", "gid": "23"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.864286065750876, 45.774225539718252]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "3001", "nom": "Gare Part-Dieu \/ Vivier Merle 1", "adresse1": "Place Béraudier", "adresse2": "derrière la station tram", "commune": "Lyon 3 ème", "numdansarrondissement": "1", "nbbornettes": "40", "stationbonus": "Non", "pole": "gare", "ouverte": "Oui", "achevement": "", "gid": "24"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.858464175430208, 45.760263005893833]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "2015", "nom": "Place de la République", "adresse1": "Rue du Président Carnot", "adresse2": "Côté est de la place de la République", "commune": "Lyon 2 ème", "numdansarrondissement": "15", "nbbornettes": "20", "stationbonus": "Non", "pole": "commerces, parking", "ouverte": "Oui", "achevement": "", "gid": "25"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.836172939495854, 45.760911663364787]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "2028", "nom": "Sainte Blandine", "adresse1": "Cours Charlemagne", "adresse2": "face station tram Ste Blandine", "commune": "Lyon 2 ème", "numdansarrondissement": "28", "nbbornettes": "16", "stationbonus": "Non", "pole": "tram", "ouverte": "Oui", "achevement": "", "gid": "26"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.822142870439611, 45.744422301422304]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "2023", "nom": "Hugo \/ Ste Hélène", "adresse1": "Rue Sainte Hélène", "adresse2": "Entre rue Victor Hugi et rue d'Auvergne", "commune": "Lyon 2 ème", "numdansarrondissement": "23", "nbbornettes": "20", "stationbonus": "Non", "pole": "commerces", "ouverte": "Oui", "achevement": "", "gid": "27"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.829892328199222, 45.754676167368594]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "2025", "nom": "Brest \/ Ferrandière", "adresse1": "Rue Ferrandière", "adresse2": "Angle rue de Brest", "commune": "Lyon 2 ème", "numdansarrondissement": "25", "nbbornettes": "10", "stationbonus": "Non", "pole": "restaurants de la rue Mercière, commerces", "ouverte": "Oui", "achevement": "", "gid": "28"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.833205955637978, 45.762055301478128]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "6003", "nom": "Parc Tête d'Or \/ Lycée du Parc", "adresse1": "Avenue de Verguin", "adresse2": "devant l'entrée du parc", "commune": "Lyon 6 ème", "numdansarrondissement": "3", "nbbornettes": "20", "stationbonus": "Non", "pole": "Parc de la Tête d'Or, lycée du Parc", "ouverte": "Oui", "achevement": "", "gid": "29"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.856326781358819, 45.772911397448283]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "idstation": "5005", "nom": "Gare Saint Paul", "adresse1": "Place Saint-Paul", "adresse2": " ", "commune": "Lyon 5 ème", "numdansarrondissement": "5", "nbbornettes": "23", "stationbonus": "Non", "pole": "gare, coeur quartier, Vieux Lyon", "ouverte": "Oui", "achevement": "", "gid": "30"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.827362826171142, 45.766257476121702]
+        }
+    }
+    ]
+}
