@@ -2,10 +2,118 @@
 
 @import "animations"
 // @import "color"
-// @import "fonts"
+@import "font"
+
+body
+  overflow: hidden
+
+*
+  padding: 0
+  margin: 0
+
+
+/******************************************************************************* MENU */
+
+
+nav
+  width: 100vw
+  height: 100vh
+  position: fixed
+  top: 0
+  left: -96vw
+  z-index: 1
+  display: flex
+    flex-direction: row
+  #menu
+    width: 4vw
+    height: 100vh
+    background-color: #FFFFFF
+    display: flex
+    flex:
+      direction: column
+      wrap: nowrap
+    justify-content: space-between
+    align-items: center
+    img
+      width: 7vh
+      margin-top: 2.5vh
+    h1
+      cursor: pointer
+      font:
+        family: $Futura_light
+        size: 20px
+      text-transform: uppercase
+      border-bottom: 2px solid #FFFFFF
+      &:hover
+        border-bottom: 2px solid #300032
+      color: #300032
+      transform: rotate(-90deg)
+      width: auto
+    #reseaux
+      cursor: pointer
+      display: flex
+      flex-direction: column
+      span
+        width: 1.5vw
+        height: 1.5vw
+        margin-bottom: 1vw
+  #ambassadeurs
+    width: 96vw
+    height: 100vh
+    background-color: rgba(40, 0, 50, 0.8)
+    ul
+      display: flex
+      width: 100%
+      flex:
+        direction: row
+        wrap: nowrap
+      justify-content: space-around
+      margin-top: 2.5vh
+      li
+        list-style: none
+        width: 30vw
+        height: 45vh
+        text-align: center
+        margin-top: 2.5vh
+        margin-bottom: 2.5vh
+        color: #FFFFFF
+        font:
+          family: $Futura_light
+          size: 40
+          weight: lighter
+        text-transform: uppercase
+        img
+          width: 50%
+
+/* ANIMATION */
+
+.ouvrirMenu
+  @include animation(ouvrirMenu 1.5s ease forwards)
+
+.fermerMenu
+  @include animation(fermerMenu 1.5s ease forwards)
+
 
 #map
-  width: 90vw
-  height: 90vh
-  margin-left: 5vw
-  margin-top: 5vh
+  width: 100vw
+  height: 100vh
+  position: fixed
+  top: 0
+  left: 0
+  z-index: 0
+
+
+
+/******************************************************************************* KEYFRAMES */
+
+@include keyframes(ouvrirMenu)
+  0%
+    left: -96vw
+  100%
+    left: 0vw
+
+@include keyframes(fermerMenu)
+  0%
+    left: 0vw
+  100%
+    left: -96vw

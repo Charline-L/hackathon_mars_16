@@ -1,0 +1,333 @@
+{
+    "type": "FeatureCollection",
+    "features": [ {
+        "type": "Feature",
+        "properties": {
+            "id": "711156", "id_sitra1": "SITRA2_RES_711156", "type": "RESTAURATION", "type_detail": "Restaurant traditionnel", "nom": "Le 21 sur Vin", "adresse": "21 boulevard EugÃ¨ne Deruelle", "codepostal": "69003", "commune": "Lyon 3Ã¨me", "telephone": "0478600656", "fax": "", "telephonefax": "", "email": "", "siteweb": "", "facebook": "", "classement": "", "ouverture": "", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5167", "date_creation": "2015-10-13 09:36:03", "last_update": "2015-10-13 10:05:34", "last_update_fme": "2015-10-14 00:08:27"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.854464, 45.763157]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "747606", "id_sitra1": "SITRA2_RES_747606", "type": "RESTAURATION", "type_detail": "", "nom": "Brasserie les 3 brasseurs", "adresse": "8 Chemin de Pontet et Crases", "codepostal": "69130", "commune": "Ã‰cully", "telephone": "0437460666", "fax": "", "telephonefax": "", "email": "", "siteweb": "http:\/\/www.les3brasseurs.com", "facebook": "", "classement": "", "ouverture": "Ouvert tous les jours de 11h Ã  23h, sauf sam. jusqu'Ã  minuit et dim. jusqu'Ã  22:30.", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5213", "date_creation": "2015-12-23 09:15:44", "last_update": "2015-12-23 10:03:42", "last_update_fme": "2015-12-24 00:09:53"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.774516, 45.785984]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "776717", "id_sitra1": "SITRA2_RES_776717", "type": "RESTAURATION", "type_detail": "Restaurant traditionnel", "nom": "Bistrot Bonnel", "adresse": "66 rue de Bonnel", "codepostal": "69003", "commune": "Lyon 3Ã¨me", "telephone": "0478627750", "fax": "", "telephonefax": "", "email": "", "siteweb": "http:\/\/bistrot-bonnel.fr\/", "facebook": "https:\/\/www.facebook.com\/BistrotBonnel\/?fref=photo", "classement": "", "ouverture": "Ouvert du lun. au sam. de 12h Ã  15h et de 19h Ã  minuit. FermÃ© les jours fÃ©riÃ©s et 2 sem. en aoÃ»t.", "tarifsenclair": "A la carte : de 10 Ã  16,50 â‚¬\nMenu adulte : 25 â‚¬ (Menu Ã  la carte : Salade + plat + fromage ou dessert)\nMenu enfant : 10 â‚¬\nPlat du jour : 9,90 â‚¬\nMenu du jour : 13,90 â‚¬ (plat + dessert).", "tarifsmin": "9.9", "tarifsmax": "25", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5272", "date_creation": "2016-03-03 10:19:41", "last_update": "2016-03-07 10:04:28", "last_update_fme": "2016-03-08 00:09:03"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.849948, 45.761801]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "647472", "id_sitra1": "SITRA2_COS_647472", "type": "COMMERCE_ET_SERVICE", "type_detail": "Divers autres commerces;Articles de pÃªche", "nom": "Neuville-PÃªche", "adresse": "Route de TrÃ©voux", "codepostal": "69730", "commune": "Genay", "telephone": "0478981397", "fax": "", "telephonefax": "", "email": "contact@neuville-peche.com", "siteweb": "", "facebook": "", "classement": "", "ouverture": "Toute l'annÃ©e de 8h30 Ã  19h.\nLundi : 10:00-12:00 14:00-19:00\r\nmardi au samedi : 08:30-12:00 14:00-19:00.", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "RhÃ´ne Tourisme", "gid": "5087", "date_creation": "2015-05-04 14:34:46", "last_update": "2015-06-12 09:01:36", "last_update_fme": "2015-08-28 00:08:08"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.822811, 45.893724]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "650578", "id_sitra1": "SITRA2_COS_650578", "type": "COMMERCE_ET_SERVICE", "type_detail": "Divers autres commerces;Articles de pÃªche", "nom": "DÃ©cathlon Limonest", "adresse": "chemin des Tuileries", "codepostal": "69760", "commune": "Limonest", "telephone": "0478663100", "fax": "", "telephonefax": "", "email": "", "siteweb": "", "facebook": "", "classement": "", "ouverture": "Toute l'annÃ©e.\nFermetures exceptionnelles les Ascension et Lundi de PentecÃ´te.\nLundi-Samedi : 9:00-20:00.", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "RhÃ´ne Tourisme", "gid": "5090", "date_creation": "2015-05-13 12:51:31", "last_update": "2015-06-11 14:34:42", "last_update_fme": "2015-06-12 00:07:19"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.771542, 45.820667]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "550896", "id_sitra1": "SITRA2_HLO_550896", "type": "HEBERGEMENT_LOCATIF", "type_detail": "Confort", "nom": "La Caillote au Loup", "adresse": "70 Chemin du Plan du Loup", "codepostal": "69110", "commune": "Sainte-Foy-lÃ¨s-Lyon", "telephone": "0478590509;0648054148", "fax": "", "telephonefax": "", "email": "sylvianefaucherand@gmail.com", "siteweb": "http:\/\/lacailloteauloup.free.fr\/;http:\/\/www.gites-de-france-rhone.com\/fiche-hebergement-2324.html", "facebook": "", "classement": "", "ouverture": "Du 02\/01\/2016 au 06\/01\/2017.", "tarifsenclair": "Une personne : 73 â‚¬\nDeux personnes : 77 â‚¬.", "tarifsmin": "73", "tarifsmax": "77", "producteur": "GÃ®tes de France RhÃ´ne", "gid": "4924", "date_creation": "2014-07-29 09:15:02", "last_update": "2016-02-11 09:57:52", "last_update_fme": "2016-02-12 00:12:37"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.788057, 45.735298]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "149370", "id_sitra1": "sitraRES762188", "type": "RESTAURATION", "type_detail": "", "nom": "Le Garet", "adresse": "7 rue du Garet", "codepostal": "69001", "commune": "Lyon 1er", "telephone": "0478281694", "fax": "0472000684", "telephonefax": "", "email": "", "siteweb": "", "facebook": "", "classement": "", "ouverture": "ouvert du lundi au vendredi midis et soirs sauf aoÃ»t.", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "388", "date_creation": "2012-03-12 16:29:13", "last_update": "2016-02-07 19:58:53", "last_update_fme": "2016-02-08 00:00:24"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.836845, 45.766769]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "130847", "id_sitra1": "sitraPCU702103", "type": "PATRIMOINE_CULTUREL", "type_detail": "", "nom": "Fresque Monde VÃ©gÃ©tal et Monde Urbain Ã  Vaise", "adresse": "Impasse Charavay \/ 32 Grande rue de Vaise", "codepostal": "69009", "commune": "Lyon 9Ã¨me", "telephone": "0951465900", "fax": "", "telephonefax": "", "email": "", "siteweb": "http:\/\/www.rezine69.com", "facebook": "", "classement": "", "ouverture": "", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "540", "date_creation": "2011-08-29 12:57:46", "last_update": "2015-07-27 08:41:55", "last_update_fme": "2015-07-28 00:06:41"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.807676, 45.774141]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "143854", "id_sitra1": "sitraHCO389319", "type": "HEBERGEMENT_COLLECTIF", "type_detail": "", "nom": "SÃ©jours & Affaires Saxe Gambetta", "adresse": "34 Grande rue de la GuillotiÃ¨re", "codepostal": "69007", "commune": "Lyon 7Ã¨me", "telephone": "0472719192", "fax": "0472717167", "telephonefax": "", "email": "lyon.saxe@sejours-affaires.com", "siteweb": "http:\/\/www.sejours-affaires.com\/residence-hoteliere-aparthotel-lyon-21.html", "facebook": "", "classement": "", "ouverture": "Toute l'annÃ©e : ouvert tous les jours.", "tarifsenclair": "NuitÃ©e (\/ pers.) : de 66 Ã  142 â‚¬\r\nPetit-dÃ©jeuner : 8,50 â‚¬.\r\n\r\nAnimaux : 4 â‚¬\/ jour.", "tarifsmin": "8.5", "tarifsmax": "142", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "223", "date_creation": "2008-09-12 09:53:40", "last_update": "2015-05-11 08:38:16", "last_update_fme": "2015-07-02 00:03:37"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.844965, 45.753089]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "536266", "id_sitra1": "SITRA2_HLO_536266", "type": "HEBERGEMENT_LOCATIF", "type_detail": "", "nom": "Le Vert Levy appartement", "adresse": "5 rue Jean Pierre Levy", "codepostal": "69003", "commune": "Lyon 3Ã¨me", "telephone": "0676363059", "fax": "", "telephonefax": "", "email": "sebastien.bay@gmail.com", "siteweb": "", "facebook": "", "classement": "", "ouverture": "Du 01\/01 au 31\/12.", "tarifsenclair": "", "tarifsmin": "70", "tarifsmax": "1360", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "4904", "date_creation": "2014-06-19 07:33:20", "last_update": "2015-08-28 09:02:43", "last_update_fme": "2015-08-29 00:07:28"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.86474, 45.753941]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "318180", "id_sitra1": "sitraHCO902200", "type": "HEBERGEMENT_COLLECTIF", "type_detail": "", "nom": "Quality Suites Lyon 7 Lodge", "adresse": "7 rue FÃ©lix Brun", "codepostal": "69007", "commune": "Lyon 7Ã¨me", "telephone": "0481915105", "fax": "", "telephonefax": "", "email": "contact@qualitysuites-lyon.fr", "siteweb": "http:\/\/www.qualitysuites-lyon.fr", "facebook": "", "classement": "4 Ã©toiles", "ouverture": "Accueil 24h\/24, 7j\/7.", "tarifsenclair": "NuitÃ©e (\/ pers.) : de 117 Ã  162 â‚¬ (Tarif EtÃ© : de 102 Ã  147 â‚¬)\r\nPetit-dÃ©jeuner : 13 â‚¬", "tarifsmin": "10", "tarifsmax": "162", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "509", "date_creation": "2013-03-07 13:43:12", "last_update": "2016-03-10 14:14:56", "last_update_fme": "2016-03-11 00:11:34"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.832045, 45.738059]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "80035", "id_sitra1": "sitraCOS483591", "type": "COMMERCE_ET_SERVICE", "type_detail": "", "nom": "ComitÃ© du RhÃ´ne de Tennis de Table", "adresse": "Espace DÃ©partemental des Sports, 8 bis rue Louis ThÃ©venet", "codepostal": "69004", "commune": "Lyon 4Ã¨me", "telephone": "0472001123", "fax": "", "telephonefax": "", "email": "", "siteweb": "http:\/\/www.rhonelyontt.com\/", "facebook": "", "classement": "", "ouverture": "", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "466", "date_creation": "2006-02-09 17:23:11", "last_update": "2012-12-26 12:59:20", "last_update_fme": "2015-01-21 00:20:47"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.837313, 45.777463]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "694984", "id_sitra1": "SITRA2_LOI_694984", "type": "EQUIPEMENT", "type_detail": "Loisirs culturels;Galerie expo", "nom": "Loft 4.40", "adresse": "4 rue de la Quarantaine", "codepostal": "69005", "commune": "Lyon 5Ã¨me", "telephone": "", "fax": "", "telephonefax": "", "email": "", "siteweb": "http:\/\/loft4-40.fr", "facebook": "https:\/\/www.facebook.com\/4.40LoftLyon", "classement": "", "ouverture": "", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5158", "date_creation": "2015-09-11 10:12:14", "last_update": "2015-09-11 10:40:19", "last_update_fme": "2015-09-12 00:11:04"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.822791, 45.754379]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "553372", "id_sitra1": "SITRA2_PCU_553372", "type": "PATRIMOINE_CULTUREL", "type_detail": "", "nom": "Parc de la Passerelle", "adresse": "Avenue Buyer \/ Avenue du Point du Jour", "codepostal": "69005", "commune": "Lyon 5Ã¨me", "telephone": "0472694760", "fax": "", "telephonefax": "", "email": "", "siteweb": "", "facebook": "", "classement": "", "ouverture": "", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "4927", "date_creation": "2014-08-07 13:01:58", "last_update": "2014-08-07 13:18:21", "last_update_fme": "2015-07-08 00:09:52"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.81256, 45.758588]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "72229", "id_sitra1": "69AAHOT100078", "type": "HOTELLERIE", "type_detail": "", "nom": "HÃ´tel La Petite Rive", "adresse": "Chemin de la Petite Rive", "codepostal": "69730", "commune": "Genay", "telephone": "0478913440", "fax": "0478982270", "telephonefax": "", "email": "", "siteweb": "", "facebook": "", "classement": "Sans Ã©toile", "ouverture": "", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "499", "date_creation": "2001-04-08 22:00:00", "last_update": "2012-10-03 11:54:27", "last_update_fme": "2015-09-30 00:08:56"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.810061, 45.892659]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "315588", "id_sitra1": "sitraPCU899515", "type": "PATRIMOINE_CULTUREL", "type_detail": "", "nom": "Fresque de Shanghai", "adresse": "23 boulevard des Etats-Unis", "codepostal": "69008", "commune": "Lyon 8Ã¨me", "telephone": "0478504457", "fax": "", "telephonefax": "", "email": "cc@citecreation.fr", "siteweb": "http:\/\/www.cite-creation.com", "facebook": "", "classement": "", "ouverture": "", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "68", "date_creation": "2013-02-27 10:36:23", "last_update": "2013-08-02 08:49:38", "last_update_fme": "2014-09-23 00:27:43"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.8616, 45.737444]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "205535", "id_sitra1": "sitraRES574799", "type": "RESTAURATION", "type_detail": "", "nom": "Toutes Les Couleurs", "adresse": "26 rue Imbert ColomÃ¨s", "codepostal": "69001", "commune": "Lyon 1er", "telephone": "", "fax": "", "telephonefax": "", "email": "", "siteweb": "http:\/\/www.touteslescouleurs.fr", "facebook": "", "classement": "", "ouverture": "", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5263", "date_creation": "2010-06-08 07:33:55", "last_update": "2016-02-29 09:09:55", "last_update_fme": "2016-03-01 00:08:02"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.83514, 45.77156]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "18170", "id_sitra1": "sitraRES384765", "type": "RESTAURATION", "type_detail": "Restaurant traditionnel", "nom": "Argenson", "adresse": "40 allÃ©e Pierre de Coubertin", "codepostal": "69007", "commune": "Lyon 7Ã¨me", "telephone": "0472737273", "fax": "", "telephonefax": "", "email": "reservation@argenson.com", "siteweb": "http:\/\/www.argenson.com", "facebook": "", "classement": "", "ouverture": "Ouvert tous les jours de 12h Ã  14h15 et de 19h Ã  22h15.", "tarifsenclair": "A la carte : de 19 Ã  34 â‚¬\r\nMenu enfant : 14,50 â‚¬\r\nPlat du jour : 17,80 â‚¬\r\nMenu du jour : 24,90 â‚¬.", "tarifsmin": "14.5", "tarifsmax": "34", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5254", "date_creation": "2008-08-13 08:56:35", "last_update": "2015-10-09 14:20:10", "last_update_fme": "2016-02-14 00:07:51"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.829349, 45.72292]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "637262", "id_sitra1": "SITRA2_COS_637262", "type": "COMMERCE_ET_SERVICE", "type_detail": "Services divers", "nom": "Atelier Maison du Projet La Part Dieu", "adresse": "192 rue Garibaldi", "codepostal": "69003", "commune": "Lyon 3Ã¨me", "telephone": "0478634040", "fax": "", "telephonefax": "", "email": "part-dieu@grandlyon.com", "siteweb": "http:\/\/www.grandlyon.com;http:\/\/www.lyonpart-dieu.com", "facebook": "", "classement": "", "ouverture": "Ouvert Lun. de 13h Ã  18h, mer. de 10h Ã  13h et 14h Ã  19h, ven. de 10h Ã  13h.", "tarifsenclair": "EntrÃ©e libre.", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5077", "date_creation": "2015-04-09 08:31:56", "last_update": "2015-04-09 09:02:55", "last_update_fme": "2015-04-10 00:08:46"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.851841, 45.76041]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "708075", "id_sitra1": "SITRA2_LOI_708075", "type": "EQUIPEMENT", "type_detail": "Divertissement;Salle de spectacle", "nom": "L'AmphithÃ©Ã¢tre", "adresse": "1 quai Charles de Gaulle", "codepostal": "69006", "commune": "Lyon 6Ã¨me", "telephone": "0472822626", "fax": "", "telephonefax": "", "email": "info@ccc-lyon.com", "siteweb": "http:\/\/www.ccc-lyon.com", "facebook": "", "classement": "", "ouverture": "", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5165", "date_creation": "2015-10-02 14:22:13", "last_update": "2015-10-02 14:50:58", "last_update_fme": "2016-03-14 00:01:06"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.858872, 45.785554]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "763292", "id_sitra1": "SITRA2_LOI_763292", "type": "EQUIPEMENT", "type_detail": "Bar et pub", "nom": "Bar du Caz", "adresse": "200 avenue du Casino", "codepostal": "69890", "commune": "La Tour-de-Salvagny", "telephone": "0478870270", "fax": "", "telephonefax": "", "email": "contact-lyonvert@partouche.com", "siteweb": "http:\/\/www.domainelelyonvert.fr\/", "facebook": "", "classement": "", "ouverture": "Ouvert tous les jours de 10h Ã  4h.", "tarifsenclair": "Soft : 2,90â‚¬\r\nBiÃ¨res : de 3,80â‚¬ Ã  5,50â‚¬\r\nWhiskies : de 3,50â‚¬ Ã  8,50â‚¬\r\nChampagne : 8â‚¬ la coupe, 55â‚¬ la bouteille\r\nApÃ©ritifs : de 2,70â‚¬ Ã  3,80â‚¬\r\nAutres alcools : de 4â‚¬ Ã  7,90â‚¬\r\nCocktails : de 6,50â‚¬ Ã  9â‚¬\r\nBoissons chaudes : de 1,60â‚¬ Ã  6,50â‚¬\r\n\r\nSnacking :\r\nPaninis : 5,50â‚¬\r\nSandwichs : 5,50â‚¬", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5246", "date_creation": "2016-02-04 14:07:57", "last_update": "2016-02-05 11:40:27", "last_update_fme": "2016-02-06 00:19:00"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.73188, 45.788742]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "149269", "id_sitra1": "sitraLOI116542", "type": "EQUIPEMENT", "type_detail": "Location de salles;Divertissement;Centre de congrÃ¨s et sÃ©minaires;Salle de spectacle", "nom": "Centre de CongrÃ¨s de Lyon", "adresse": "50 quai Charles de Gaulle", "codepostal": "69006", "commune": "Lyon 6Ã¨me", "telephone": "0472822626", "fax": "0472822627", "telephonefax": "", "email": "info@ccc-lyon.com", "siteweb": "http:\/\/www.ccc-lyon.com", "facebook": "", "classement": "", "ouverture": "", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "1497", "date_creation": "2006-02-09 17:19:12", "last_update": "2016-03-13 21:30:18", "last_update_fme": "2016-03-14 00:01:06"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.852014, 45.784664]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "753914", "id_sitra1": "SITRA2_RES_753914", "type": "RESTAURATION", "type_detail": "Restaurant spectacle", "nom": "Tommy's Diner", "adresse": "3 Avenue de BÃ¶hlen", "codepostal": "69100", "commune": "Villeurbanne", "telephone": "0472744288", "fax": "", "telephonefax": "", "email": "", "siteweb": "http:\/\/www.tommys-cafe.com\/ville\/lyon", "facebook": "https:\/\/www.facebook.com\/tommysLyonCarreDeSoie", "classement": "", "ouverture": "Ouvert tous les jours de 11h30 Ã  23h.", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5223", "date_creation": "2016-01-14 11:10:00", "last_update": "2016-01-14 13:04:19", "last_update_fme": "2016-01-15 00:11:17"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.920526, 45.764968]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "172271", "id_sitra1": "sitraPCU487026", "type": "PATRIMOINE_CULTUREL", "type_detail": "", "nom": "MÃ©morial de la Prison de Montluc", "adresse": "Prison Montluc", "codepostal": "69003", "commune": "Lyon 3Ã¨me", "telephone": "0478536041", "fax": "", "telephonefax": "", "email": "info@memorial-montluc.fr", "siteweb": "http:\/\/www.memorial-montluc.fr\/", "facebook": "", "classement": "", "ouverture": "Ouvert du mer. au sam. de 14h Ã  17h30. Visite guidÃ©e Ã  15h30. En juil. et aoÃ»t : du mar. au sam. de 9h Ã  12h et de 14h Ã  17h30.  Visites guidÃ©es Ã  10h30 et 15h30. FermÃ© les jours fÃ©riÃ©s.", "tarifsenclair": "Gratuit.", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "176", "date_creation": "2006-02-09 17:04:03", "last_update": "2016-01-04 09:30:33", "last_update_fme": "2016-01-29 00:10:06"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.863729, 45.752741]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "131563", "id_sitra1": "sitraPCU335101", "type": "PATRIMOINE_CULTUREL", "type_detail": "", "nom": "Les Cadrans Solaires", "adresse": "Observatoire : 9 avenue Charles AndrÃ©", "codepostal": "69230", "commune": "Saint-Genis-Laval", "telephone": "0478868383", "fax": "0478868386", "telephonefax": "", "email": "", "siteweb": "http:\/\/www.cadrans-solaires.org", "facebook": "", "classement": "", "ouverture": "", "tarifsenclair": "Visites jour : 3,5 â‚¬, 2 â‚¬ - de 12 ans. \r\nSoirÃ©es : 6 â‚¬, 3 â‚¬ - 12 ans.", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "105", "date_creation": "2007-12-24 14:40:03", "last_update": "2015-07-27 08:53:26", "last_update_fme": "2015-07-28 00:06:41"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.782509, 45.6954]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "714990", "id_sitra1": "SITRA2_PCU_714990", "type": "PATRIMOINE_CULTUREL", "type_detail": "", "nom": "Fresque des lumiÃ¨res en hommage Ã  Paul Bocuse", "adresse": "Face aux Halles Paul Bocuse", "codepostal": "69003", "commune": "Lyon 3Ã¨me", "telephone": "0478504457;0478503212", "fax": "", "telephonefax": "", "email": "cc@citecreation.fr", "siteweb": "http:\/\/www.cite-creation.com", "facebook": "", "classement": "", "ouverture": "Projections de la tombÃ©e de la nuit jusqu'Ã  23h.", "tarifsenclair": "AccÃ¨s libre.", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5171", "date_creation": "2015-10-21 15:26:42", "last_update": "2016-01-05 08:40:35", "last_update_fme": "2016-01-06 00:17:52"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.855657, 45.762972]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "759375", "id_sitra1": "SITRA2_LOI_759375", "type": "EQUIPEMENT", "type_detail": "Bar et pub;Bar Ã  cocktail;Bar Ã  tapas", "nom": "Indo CafÃ©", "adresse": "14 Rue de la ThibaudiÃ¨re", "codepostal": "69007", "commune": "Lyon 7Ã¨me", "telephone": "0478583330", "fax": "", "telephonefax": "", "email": "contact@indocafe.fr", "siteweb": "", "facebook": "https:\/\/fr-fr.facebook.com\/indocafe.lyon", "classement": "", "ouverture": "Ouvert lun. de 18h Ã  1h, du mar. au sam. de 12h Ã  1h. FermÃ© les 1er janv., 1er mai et 25 dÃ©c.", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5237", "date_creation": "2016-01-28 07:01:41", "last_update": "2016-01-28 07:35:29", "last_update_fme": "2016-01-29 00:10:06"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.843976, 45.750853]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "771667", "id_sitra1": "SITRA2_COS_771667", "type": "COMMERCE_ET_SERVICE", "type_detail": "EvÃ©nementiel \/ Voyage;Agence Ã©vÃ¨nementiel", "nom": "King Of Castle - Joker-Productions France", "adresse": "69 rue Joseph Moulin", "codepostal": "69290", "commune": "Craponne", "telephone": "0478448042", "fax": "", "telephonefax": "", "email": "", "siteweb": "http:\/\/www.kingofcastle.com\/", "facebook": "", "classement": "", "ouverture": "", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5262", "date_creation": "2016-02-23 10:12:20", "last_update": "2016-02-23 10:30:17", "last_update_fme": "2016-02-24 00:19:12"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.710211, 45.742048]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "624718", "id_sitra1": "SITRA2_COS_624718", "type": "COMMERCE_ET_SERVICE", "type_detail": "Divers autres commerces;Bijouterie \/ OrfÃ¨vrerie", "nom": "Mireille Palatre", "adresse": "69 rue Edouard Herriot", "codepostal": "69002", "commune": "Lyon 2Ã¨me", "telephone": "0478377771", "fax": "0478377722", "telephonefax": "", "email": "mireille.palatre@orange.fr", "siteweb": "", "facebook": "", "classement": "", "ouverture": "Ouvert le lun. de 14h Ã  19h et du mar. au sam. de 10h Ã  19h.", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5060", "date_creation": "2015-03-06 10:46:21", "last_update": "2016-03-15 08:56:17", "last_update_fme": "2016-03-16 00:06:48"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.834312, 45.761284]
+        }
+    }
+    ,
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "660661", "id_sitra1": "SITRA2_COS_660661", "type": "COMMERCE_ET_SERVICE", "type_detail": "Petite Ã  Grande distribution;Centre commercial \/ Galerie marchande", "nom": "Centre commercial Ecully Grand Ouest", "adresse": "chemin Jean-Marie Vianney", "codepostal": "69130", "commune": "Ã‰cully", "telephone": "0964294077", "fax": "", "telephonefax": "", "email": "", "siteweb": "http:\/\/www.club-onlyou.com\/Ecully-Grand-Ouest", "facebook": "", "classement": "", "ouverture": "Ouvert du lun. au sam. de 9h30 Ã  20h.\r\nFermÃ© le dim. et jours fÃ©riÃ©s.\r\nOuvertures exceptionnelles les 14 juillet, 15 aÃ´ut, 11 nov. et les 3 premiers dim. de dÃ©c.", "tarifsenclair": "", "tarifsmin": "", "tarifsmax": "", "producteur": "Lyon Tourisme et CongrÃ¨s", "gid": "5106", "date_creation": "2015-06-05 15:03:30", "last_update": "2015-06-05 15:14:53", "last_update_fme": "2015-06-06 00:09:35"
+        }
+        ,
+        "geometry": {
+            "type": "Point", "coordinates": [ 4.775626, 45.79116]
+        }
+    }
+    ]
+}
